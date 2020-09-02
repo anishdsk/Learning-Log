@@ -22,4 +22,7 @@ Users can log information about topics they're learning about and make detailed 
       
 ## Pictures:
 
+![](images/home_page.PNG)
+
+
       
