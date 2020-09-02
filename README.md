@@ -24,5 +24,16 @@ Users can log information about topics they're learning about and make detailed 
 
 ![](images/home_page.PNG)
 
+![](images/registration_page.PNG)
+
+![](images/login_page.PNG)
+
+![](images/add_topic.PNG)
+
+![](images/after_adding_topic.PNG)
+
+![](images/add_entry.PNG)
+
+![](images/entries.PNG)
 
       
