@@ -20,5 +20,5 @@ Users can log information about topics they're learning about and make detailed 
       - Created within a virtual environment 
       - Deployed to Heroku
 
-## Pictures:
+## Pictures
       
