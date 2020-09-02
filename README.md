@@ -20,7 +20,7 @@ Users can log information about topics they're learning about and make detailed 
       - Created within a virtual environment 
       - Deployed to Heroku
       
-## Images of Pages & Features:
+## Images:
 
 ![](images/home_page.PNG)
 
