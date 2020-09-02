@@ -12,10 +12,13 @@ https://simplelearninglog.herokuapp.com/
 Users can log information about topics they're learning about and make detailed entries as they learn about each topic.
 
       - Utilized Python's Django web-framework to handle/route data between webpages and the backend/database
-      - Implemented user login/authentication and security also using Django
+      - Implemented user registration/login and authentication using Django's built-ins for forms and security
       - Used SQLite to hold information about data models (Topics, Entries, Users, primary/foreign keys)
-      - Data for each user is preserved between logins unless the user deletes it themselves
+      - Each user's data is preserved between logins unless the user deletes it themselves
       - Used HTML and Bootstrap to make responsive webpages
       - Admin privileges are held by me
       - Created within a virtual environment 
       - Deployed to Heroku
+
+## Pictures:
+      
