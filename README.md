@@ -30,8 +30,8 @@ Users can log information about topics they're learning about and make detailed 
             - "pip install django-heroku"
             - "pip install djang-bootstrap4"
             
-      - Now, while in the directory and with the command line open, type in "python manage.py migrate"
-      - Now, type in "python manage.py runserver" while in the same directory
+      - Wile in the directory and with the command line open, type in "python manage.py migrate"
+      - Now type in "python manage.py runserver" while in the same directory
       - After running the above command, one of the outputted lines will have the URL
       - Copy/paste the URL into a browser and start using the web-app locally
       
