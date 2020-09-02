@@ -2,7 +2,7 @@
 
 ## URL:
 
-### My Heroku account is experiencing problems at the moment. I contacted Heroku to fix it so the URL may be down for a few days. I have uploaded pictures of the app's pages and features at the bottom of the README that you can look at in the meantime.
+### My Heroku account is experiencing problems at the moment. I contacted Heroku to fix it so the URL may be down for a few days. I have uploaded iamges of the app's pages and features at the bottom of the README that you can look at in the meantime.
 
 https://simplelearninglog.herokuapp.com/
 
@@ -20,7 +20,7 @@ Users can log information about topics they're learning about and make detailed 
       - Created within a virtual environment 
       - Deployed to Heroku
       
-## Pictures:
+## Images of Pages & Features:
 
 ![](images/home_page.PNG)
 
