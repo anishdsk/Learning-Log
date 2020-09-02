@@ -20,5 +20,11 @@ Users can log information about topics they're learning about and make detailed 
       - Created within a virtual environment 
       - Deployed to Heroku
 
+# Running Locally:
+      - Clone to a local directory
+      - Create a virtual environment once in the directory 
+      - Type "python manage.py runserver" on the command line
+      - One of the output lines to that command will have the URL; copy/paste it into a browser
+      
 ## Pictures
       
