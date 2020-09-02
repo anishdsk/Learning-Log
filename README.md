@@ -16,7 +16,7 @@ Users can log information about topics they're learning about and make detailed 
       - Used SQLite to hold information about data models (Topics, Entries, Users, primary/foreign keys)
       - Each user's data is preserved between logins unless the user deletes it themselves
       - Used HTML and Bootstrap to make responsive webpages
-      - Superuser privileges are held by me
+      - Administrator privileges are held by me
       - Created within a virtual environment 
       - Deployed to Heroku
 
