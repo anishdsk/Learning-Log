@@ -35,7 +35,7 @@ Users can log information about topics they're learning about and make detailed 
 ![](images/add_topic.PNG)
 
 ### All Topics page
-![](images/after_adding_topic.PNG)
+![](images/topics.PNG)
 
 ### Add Entry page
 ![](images/add_entry.PNG)
