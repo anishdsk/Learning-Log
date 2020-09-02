@@ -20,9 +20,20 @@ Users can log information about topics they're learning about and make detailed 
       - Administrator privileges are held by me
       - Created within a virtual environment 
       - Deployed to Heroku
-  
-## Images:
 
+## Running Locally:
+      - Clone the repo into a directory
+      - Make sure Python is already installed and added to PATH on your computer
+      - Install dependencies using pip
+            - "pip install django"
+            - "pip install django-heroku"
+            - "pip install djang-bootstrap4"
+      - Now, while in the directory and with the command line open, type in "python manage.py migrate"
+      - Now, type in "python manage.py runserver" while in the same directory
+      - After running the above command, one of the outputted lines will have the URL
+      - Copy/paste the URL into a browser and start using the web-app locally
+      
+## Images:
 ### Homepage
 ![](images/home_page.PNG)
 
