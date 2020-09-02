@@ -8,7 +8,7 @@ https://simplelearninglog.herokuapp.com/
 
 *Load times may take a bit longer sometimes as Heroku puts the app to sleep if it has been idle for a while*
 
-## Overview & Technical Features:
+## Overview & Technical Details:
 Users can log information about topics they're learning about and make detailed entries as they learn about each topic.
 
       - Utilized Python's Django web-framework to handle/route data between webpages and the backend/database
