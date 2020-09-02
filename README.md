@@ -2,7 +2,7 @@
 
 ## URL:
 
-### My Heroku account is experiencing problems at the moment. I contacted Heroku to fix it so the URL may be down for a few days. I have uploaded pictures of the app's pages and features at the bottom of the README that you can look at it in the meantime.
+### My Heroku account is experiencing problems at the moment. I contacted Heroku to fix it so the URL may be down for a few days. I have uploaded pictures of the app's pages and features at the bottom of the README that you can look at in the meantime.
 
 https://simplelearninglog.herokuapp.com/
 
