@@ -14,7 +14,7 @@ Users can log information about topics they're learning about and make detailed 
       - Utilized Python's Django web-framework to handle/route data between webpages and the backend/database
       - Implemented user login/registration and authentication using Django's built-ins for forms and security
       - Used SQLite to hold information about data models (Topics, Entries, Users, primary/foreign keys)
-      - Each topic's entries are timestamped for history and improved organization purposes
+      - Each Topic's Entries are timestamped for improved organization and logging purposes
       - Each user's data is preserved between logins unless the user deletes it themselves
       - Used HTML and Bootstrap to make responsive webpages
       - Administrator privileges are held by me
