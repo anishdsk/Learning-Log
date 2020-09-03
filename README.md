@@ -27,6 +27,10 @@ Users can log information about topics they're learning about and make detailed 
             - "pip install django-heroku"
             - "pip install djang-bootstrap4"
             
+      - Optional but recommended:
+            - Please get a new Django key if possible 
+            - Now update the key value in learning_log/settings.py
+            
       - Wile in the directory and with the command line open, type in "python manage.py migrate"
       - Now type in "python manage.py runserver" while in the same directory
       - After running the above command, one of the outputted lines will have the URL
