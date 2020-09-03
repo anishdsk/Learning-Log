@@ -2,8 +2,6 @@
 
 ## URL:
 
-#### My Heroku account is experiencing problems at the moment. I contacted Heroku to fix it so the URL may be down for a few days. I have uploaded images of the web-app's pages and features at the bottom of the README that you can look at in the meantime.
-
 https://simplelearninglog.herokuapp.com/
 
 *Load times may take a bit longer sometimes as Heroku puts the app to sleep if it has been idle for a while*
