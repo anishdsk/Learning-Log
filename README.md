@@ -2,7 +2,7 @@
 
 ## URL:
 
-https://simplelearninglog.herokuapp.com/
+https://simplelearninglog.herokuapp.com/ (link is down at the moment)
 
 *Load time may take a bit longer sometimes as Heroku puts the app to sleep if it has been idle for a while*
 
